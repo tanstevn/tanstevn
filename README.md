@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-It's a pleasure to have you in my GitHub profile! I'm a Software Developer that loves to work on C# written backend projects. Whenever have free time, I used to add something into my `in practice` to gain knowledge and develop more my skills.
+It's a pleasure to have you in my GitHub profile! I'm a Software Developer that loves to work on C# written backend projects. Whenever have free time, I used to add something into my `in practice` to gain knowledge and develop more of my skills.
 
 💻 I'm proficient in both C# and TypeScript for backend development and both JavaScript and TypeScript frontend development.  
 🔭 I'm currently investing my time to my personal project called GovConnect that is a ASP.NET Core Web API application.  
